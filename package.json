@@ -1,0 +1,24 @@
+{
+  "name": "ummay480-45-questions",
+  "version": "1.0.0",
+  "description": "all question 1 to 45",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ummay",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  }
+}
